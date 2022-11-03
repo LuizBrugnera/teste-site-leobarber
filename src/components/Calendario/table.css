@@ -1,0 +1,20 @@
+.conteudo{
+    left: 50%;
+    margin: 0 0 0 -250px;
+    position: absolute;
+    width: 500px;
+}
+.calendario table{
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+.calendario thead{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.calendario td{
+    border: 1px solid black;
+    height: 71px;
+    text-align: center;
+    width: 71px;
+}

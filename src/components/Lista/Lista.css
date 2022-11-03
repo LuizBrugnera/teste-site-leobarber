@@ -1,0 +1,19 @@
+
+.item {
+    background-color: #34767a;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px #000 9F;
+    padding: 1px;
+    margin-bottom: 8px;
+    margin-right: 2.3%;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 18px;
+    word-break: break-all;
+    text-align: center;
+}
+.horario
+{
+    list-style-type: none;
+}
+    
